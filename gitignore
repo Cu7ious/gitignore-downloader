@@ -10,7 +10,7 @@ if [ -z "$1" ];
     printf "\n"
     echo "Usage:"
     echo "    $0 -<lang_abbr> or --<lang_name> to download .gitignore"
-    echo "    specific to a language of your choise"
+    echo "    specific to a language of your choice"
     printf "\n"
     echo "    Example: $0 -py downloads .gitignore for Python"
   else
