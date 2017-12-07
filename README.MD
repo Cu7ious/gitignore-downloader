@@ -8,5 +8,5 @@ A shell script which downloads a .gitignore file, specific to a language/project
 ```
 ### Example:
 ```
-gitignore -py # downloads .gitignore for Python
+gitignore -py # downloads .gitignore for Python into a current directory
 ```
